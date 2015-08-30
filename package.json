@@ -1,0 +1,18 @@
+{
+  "name": "bundle-request",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bundleRequest.js",
+  "scripts": {
+    "test": "later"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/Mido22/bundle-request.git"
+  },
+  "author": "mido22",
+  "license": "MIT",
+  "dependencies": {
+    "es6-promise": "^3.0.2"
+  }
+}
